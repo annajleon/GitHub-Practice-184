@@ -34,7 +34,6 @@
 | Jung In Kim | jikim413 | <https://jikim413.github.io/> |  
 | William Ku  | WilliamKuDS | <https://williamkuds.github.io/STAT184_Assignment1/> |
 | Anna Leon   | annajleon   | <https://annajleon.github.io/AnnaRepo1/> |
-
 <br>
 
 # Integration of RStudio with Git
